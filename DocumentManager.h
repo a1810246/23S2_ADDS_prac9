@@ -15,4 +15,4 @@ class DocumentManager
     private:
         std::map<int, std::pair<std::string, int>> documents;
         std::set<int> patrons;
-}
+};
